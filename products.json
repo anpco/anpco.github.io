@@ -61,7 +61,7 @@
             "id": 1009,
             "name": "Synthetic Stone Tile",
             "price": 0.022,
-            "imageURL": ["050", "051", "052", "053", "054", "055", "056"],
+            "imageURL": ["051", "052", "053", "054", "055", "056"],
             "category": "plasticTile"
         },
         {
