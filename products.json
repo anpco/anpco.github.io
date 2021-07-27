@@ -45,14 +45,14 @@
         },
         {
             "id": 1007,
-            "name": "Synthetic Wood Tile",
+            "name": "4 Slats PP Tile",
             "price": 0.022,
             "imageURL": ["037", "038", "039", "040", "041", "042", "043"],
             "category": "plasticTile"
         },
         {
             "id": 1008,
-            "name": "White Synthetic Wood Tile",
+            "name": "White 4 Slats PP Tile",
             "price": 0.022,
             "imageURL": ["044", "045", "046", "047", "048", "049", "043"],
             "category": "plasticTile"
