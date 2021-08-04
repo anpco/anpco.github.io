@@ -1,5 +1,6 @@
 {
     "numberOfProducts": 10,
+    "allCategories": ["Acacia Tile", "Synthetic Grass Tile", "Plastic Tile"]
     "products": [
         {
             "id": 1001,
