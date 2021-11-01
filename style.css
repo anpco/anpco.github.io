@@ -1,0 +1,110 @@
+
+.title {
+    color: #00ACEF;
+    font-weight: 700;
+}
+
+.headline {
+    color: #00ACEF;
+    font-weight: 600;
+}
+
+.body {
+    font-weight: 400;
+    color: black;
+    line-height: 24px;
+}
+
+.caption {
+    font-weight: 400;
+    color: gray;
+    font-size: smaller;
+}
+
+.row::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+.row {
+    display: flex;
+}
+
+img {
+    border-radius: 8px;
+    max-width: 100%;
+}
+
+iframe {
+    border-radius: 8px;
+    max-width: 600px;
+    max-height: 450px;
+}
+
+/* 
+
+*/
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+p.caption a:hover {
+    color: gray;
+}
+
+a:hover {
+    color: #00ACEF;
+}
+
+div.list {
+    padding-left: 10px;
+    list-style: none;
+    padding-bottom: 12px;
+    text-align: left;
+}
+
+div.list p {
+    margin: 0;
+    padding: 4px;
+    text-align: left;
+}
+
+b {
+    font-weight: 600;
+}
+
+body {
+    font-weight: 400;
+    font-family: 'Poppins', 'SVN-Poppins', 'Avenir Next', Arial, Helvetica, sans-serif;
+    max-width: 600px;
+    margin: auto;
+    padding: 20px 40px 20px 40px;
+    text-align: justify;
+    background-color: white;
+}
+
+@media only screen and (max-width: 599px) {
+    body {
+        padding: 20px;
+    }
+}
+    
+
+div.divider {
+    max-width: 600px;
+    height: 0.5px;
+    border-top: 0.5px solid gray;
+    opacity: 0.5;
+}
+
+.primary-border {
+    font-family: 'Poppins', 'SVN-Poppins', 'Avenir Next', Arial, Helvetica, sans-serif;
+    color: white;
+    background-color: #5AB2D4;
+    padding: 2px 24px 2px 16px;
+    border-radius: 8px;
+    text-align: left;
+}

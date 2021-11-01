@@ -1,0 +1,62 @@
+[
+    {
+        "id": "anp-1",
+        "name": "6 Slats Acacia Tile",
+        "price": 0.9,
+        "imageCount": 4
+    },
+    {
+        "id": "anp-2",
+        "name": "12 Slats Acacia Tile",
+        "price": 0.9,
+        "imageCount": 5
+    },
+    {
+        "id": "anp-3",
+        "name": "Black 4 Slats Plastics Tile",
+        "price": 0.9,
+        "imageCount": 6
+    },
+    {
+        "id": "anp-4",
+        "name": "White 4 Slats Plastics Tile",
+        "price": 0.9,
+        "imageCount": 6
+    },
+    {
+        "id": "anp-5",
+        "name": "Black Plastics Tile",
+        "price": 0.9,
+        "imageCount": 6
+    },
+    {
+        "id": "anp-6",
+        "name": "White Plastics Tile",
+        "price": 0.9,
+        "imageCount": 6
+    },
+    {
+        "id": "anp-7",
+        "name": "Synthetic Grass Tile",
+        "price": 0.9,
+        "imageCount": 4
+    },
+    {
+        "id": "anp-8",
+        "name": "Synthetic Grass and Acacia Tile",
+        "price": 0.9,
+        "imageCount": 6
+    },
+    {
+        "id": "anp-9",
+        "name": "Black Plastics Rock Style Tile",
+        "price": 0.9,
+        "imageCount": 5
+    },
+    {
+        "id": "anp-10",
+        "name": "White Plastics Rock Style Tile",
+        "price": 0.9,
+        "imageCount": 5
+    }
+]
